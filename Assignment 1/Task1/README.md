@@ -9,4 +9,4 @@ mkdir -p A/{B/{D/{I/M/Z,J/L/Z},E/H/L/Z},C/{F/H/L/Z,G/K/L/Z}}
 ```
 Further, tree command is used to list the directory structure.
 
-![alt text](https://github.com/mrsarthak001/Summer-Internship-2020/tree/master/Assignment%201/Task1)
+![alt text](https://github.com/mrsarthak001/Summer-Internship-2020/blob/master/Assignment%201/Task1/Task1.PNG)
