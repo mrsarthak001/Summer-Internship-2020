@@ -1,0 +1,3 @@
+FROM ubuntu
+RUN sudo apt install firefox -y
+CMD ["/usr/bin/firefox"]
